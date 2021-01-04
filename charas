@@ -1,0 +1,4 @@
+git remote add origin 	
+git clone https://github.com/zihadmahiuddin/bulk_mail.git && cd bulk_mail
+git branch -M first
+git push -u origin first
